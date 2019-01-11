@@ -19,4 +19,5 @@ https://github.com/sxhfut/beamer-fudan
 https://github.com/sxhfut/beamer-sgp940
 
 顺便提一下实验室的多模态情感语料库
+
 https://github.com/sxhfut/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models
